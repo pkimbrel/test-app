@@ -1,4 +1,4 @@
 test-app
 ========
 
-Kicking the tire
+Kicking the tires
